@@ -1,0 +1,10 @@
+{ 
+	"applicationid":"id-your-bot",
+ 	"name":"Visual Studio Code",
+ 	"details":"Editing index.js",
+ 	"state":"Workspace: Bot",
+ 	"imagename":"image-name",
+ 	"type":"PLAYING",
+ 	"time":"1631668040396"
+ 	//kosongkan time jika inging memulai waktu baru
+}
